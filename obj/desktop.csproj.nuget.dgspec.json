@@ -1,20 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\dimha\\Desktop\\dotnetWebApi\\desktop.csproj": {}
+    "C:\\Users\\user\\Desktop\\typhoonOpenData\\desktop.csproj": {}
   },
   "projects": {
-    "C:\\Users\\dimha\\Desktop\\dotnetWebApi\\desktop.csproj": {
+    "C:\\Users\\user\\Desktop\\typhoonOpenData\\desktop.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\dimha\\Desktop\\dotnetWebApi\\desktop.csproj",
+        "projectUniqueName": "C:\\Users\\user\\Desktop\\typhoonOpenData\\desktop.csproj",
         "projectName": "desktop",
-        "projectPath": "C:\\Users\\dimha\\Desktop\\dotnetWebApi\\desktop.csproj",
-        "packagesPath": "C:\\Users\\dimha\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\dimha\\Desktop\\dotnetWebApi\\obj\\",
+        "projectPath": "C:\\Users\\user\\Desktop\\typhoonOpenData\\desktop.csproj",
+        "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\user\\Desktop\\typhoonOpenData\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "C:\\Users\\dimha\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -22,6 +25,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "http://192.168.1.206/NugetServer/nuget": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -61,7 +65,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.400-preview-015151\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.401\\RuntimeIdentifierGraph.json"
         }
       }
     }

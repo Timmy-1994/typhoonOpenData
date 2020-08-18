@@ -1,8 +1,0 @@
-{
-  "runtimeOptions": {
-    "additionalProbingPaths": [
-      "C:\\Users\\dimha\\.dotnet\\store\\|arch|\\|tfm|",
-      "C:\\Users\\dimha\\.nuget\\packages"
-    ]
-  }
-}
